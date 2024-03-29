@@ -6,7 +6,7 @@ const playDl = async (client, m, text) => {
 
  
         if (!text) {
-            m.reply('What song do you want to download?')
+            m.reply('Provide a search term ,eg: play Jess glynne Ill be there')
             return;
         }
         try {
