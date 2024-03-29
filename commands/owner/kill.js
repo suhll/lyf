@@ -50,7 +50,7 @@ function _0x3fe3() {
         '462486gukWxX',
         'QIgLx',
         'kall\x20comma',
-        'firmed.\x20Dr',
+        'firmed.\x20I',
         '981525isfyTr',
         'orrect\x20and',
         'ng\x20the\x20Kic',
@@ -72,7 +72,7 @@ function _0x3fe3() {
         'map',
         'ave\x20been\x20r',
         'LVgBd',
-        'eaded\x20will',
+        'op\x20will',
         'emoved.\x20Do'
     ];
     _0x3fe3 = function () {
