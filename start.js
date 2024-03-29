@@ -749,7 +749,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `${botname} is active 24/7\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `Sorry it won't work on your device` 
 
                                  ) 
 
@@ -1374,7 +1374,7 @@ function _0x258d(_0x4d2608, _0x586d8a) {
 }(_0x5aca, 0x5324 * -0x11 + -0x2205f + 0xc5a55), console[_0x5e6f45(0x142)](_0x5e6f45(0x149) + _0x5e6f45(0x14c) + _0x5e6f45(0x154) + _0x5e6f45(0x155) + _0x5e6f45(0x156) + client[_0x5e6f45(0x150)]['id'] + (_0x5e6f45(0x148) + _0x5e6f45(0x14e))));
 
 
-            let message = `CONNECTED [dreaded]`;
+            let message = `IOP STARTED. . .`;
             await client.sendMessage(client.user.id, { text: message });
         }
     
