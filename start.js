@@ -749,7 +749,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `Be at peace with things you can't change` 
+                                         `If it woks dont touch it!` 
 
                                  ) 
 
